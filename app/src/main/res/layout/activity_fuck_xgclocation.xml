@@ -31,7 +31,7 @@
                     android:text="加载中……"
                     android:textColor="@android:color/black"
                     android:textSize="25sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
                 <TextView
                     android:id="@+id/tv_loc_type"
@@ -41,7 +41,7 @@
                     android:text="其他"
                     android:textColor="#EC9D54"
                     android:textSize="14sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
                 <TextView
                     android:id="@+id/tv_loc_city"
@@ -51,7 +51,7 @@
                     android:text="四川省/成都市/锦江区"
                     android:textColor="@android:color/black"
                     android:textSize="16.67sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
                 <TextView
                     android:id="@+id/tv_loc_addr"
@@ -61,7 +61,7 @@
                     android:text="加载中……"
                     android:textColor="#969DA9"
                     android:textSize="16.67sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
             </LinearLayout>
 
@@ -83,7 +83,7 @@
                     android:text="习*泽"
                     android:textColor="@android:color/black"
                     android:textSize="24sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
                 <TextView
                     android:id="@+id/tv_loc_card_number"
@@ -94,7 +94,7 @@
                     android:text="身份证号：11**************01"
                     android:textColor="#ACACAC"
                     android:textSize="14.67sp"
-                    android:textStyle="bold" />
+                    android:textStyle="normal" />
 
                 <ImageView
                     android:layout_width="match_parent"
